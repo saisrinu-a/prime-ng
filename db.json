@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "506f",
+      "username": "455",
+      "email": "wr34t",
+      "password": "345"
+    },
+    {
+      "id": "601d",
+      "username": "saisrinu",
+      "email": "saisrinuaddanki531@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "1260",
+      "username": "sai",
+      "email": "saisrinuaddanki531@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "53d1",
+      "username": "sai",
+      "email": "saisrinuaddanki531@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "157f",
+      "username": "srinu",
+      "email": "saisrinuaddanki531@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
